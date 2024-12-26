@@ -43,7 +43,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src --ext .ts,.tsx",
-    "format": "prettier --write \"src/**/*.{ts,tsx}\"",
+    "format": "prettier --write \\"src/**/*.{ts,tsx}\\"",
     "type-check": "tsc --noEmit"
   },
   "eslintConfig": {
